@@ -1,0 +1,9 @@
+[submodule "03_second_commit/my_first_workspace"]
+	path = 03_second_commit/my_first_workspace
+	url = https://github.com/takanabe/https://github.com/takanabe/introduction-to-git_03_second_commit.git
+[submodule "04_more_commits/my_first_workspace"]
+	path = 04_more_commits/my_first_workspace
+	url = https://github.com/takanabe/https://github.com/takanabe/introduction-to-git_04_more_commits.git
+[submodule "05_branch/my_first_workspace"]
+	path = 05_branch/my_first_workspace
+	url = https://github.com/takanabe/introduction-to-git_05_branch.git
