@@ -17,6 +17,15 @@ by shinpei maruyama
 
 なお、一部 Mac OS X 向けの記述になっていますが、基本的にはコマンドラインで Git が使える環境ならば問題なく読み進めることができるようになっています。
 
+## 使い方
+以下のコマンドを実施してください。
+ダウンロードしたディレクトリには各章に対応したgitレポジトリが用意されています。
+苦手な章を何度も練習する場合などにお使いください
+
+```
+git clone --recursive https://github.com/takanabe/introduction-to-git.git
+git submodule foreach git pull origin master
+```
 ## 目次
 
 1. [gitとはなんぞや](01_what_is_git.md)
