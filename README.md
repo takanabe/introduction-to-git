@@ -25,7 +25,7 @@ by shinpei maruyama
 ```
 $ git clone --recursive https://github.com/takanabe/introduction-to-git.git
 $ cd introduction-to-git
-$ git submodule foreach git pull origin master
+$ git submodule foreach git checkout master
 ```
 ## 目次
 
