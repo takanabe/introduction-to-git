@@ -23,8 +23,9 @@ by shinpei maruyama
 苦手な章を何度も練習する場合などにお使いください
 
 ```
-git clone --recursive https://github.com/takanabe/introduction-to-git.git
-git submodule foreach git pull origin master
+$ git clone --recursive https://github.com/takanabe/introduction-to-git.git
+$ cd introduction-to-git
+$ git submodule foreach git pull origin master
 ```
 ## 目次
 
